@@ -61,3 +61,6 @@ if __name__ == "__main__":
         producer.send(EVENT_HUB_NAME, event)
         print(f"Sent to Event Hub: {event}")
         time.sleep(1)
+
+
+#example1
